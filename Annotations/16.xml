@@ -1,0 +1,1 @@
+<annotation><filename>16.png</filename><size><width>512</width><height>256</height><depth>3</depth></size><object><name>knife</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>128</xmin><ymin>163</ymin><xmax>258</xmax><ymax>218</ymax></bndbox></object></annotation>

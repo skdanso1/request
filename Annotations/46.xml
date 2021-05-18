@@ -1,0 +1,1 @@
+<annotation><filename>46.png</filename><size><width>512</width><height>256</height><depth>3</depth></size><object><name>board_marker</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>160</xmin><ymin>121</ymin><xmax>272</xmax><ymax>149</ymax></bndbox></object></annotation>

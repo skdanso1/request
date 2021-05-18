@@ -1,0 +1,1 @@
+<annotation><filename>13.png</filename><size><width>512</width><height>256</height><depth>3</depth></size><object><name>screw_drive</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>201</xmin><ymin>16</ymin><xmax>257</xmax><ymax>164</ymax></bndbox></object></annotation>
